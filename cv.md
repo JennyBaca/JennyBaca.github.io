@@ -4,8 +4,8 @@
 
 
 #### EDUCATION
-* PhD. University of California, Berkeley, Geography, 2015 B.A.
-* Stanford University, Human Biology, 2004
+* PhD. University of California, Berkeley, Geography, 2015
+* B.A. Stanford University, Human Biology, 2004
 
 #### PROFESSIONAL APPOINTMENTS
 * Bowdoin College, Latin American Studies Program, Consortium for
@@ -21,8 +21,10 @@
 
 * 2012-2012 Society of Woman Geographers
 * 2012 Summer Institute for Preparing Future Faculty Fellow, UC Berkeley
-* 2011-2012 Institute of International Education Graduate Fellowship for International Study 2011 Dean’s Dissertation Research Fellowship, UC Berkeley
-* 2011 Outstanding Graduate Student Instructor Award, Geography Department, UC Berkeley 2008 Tinker Summer Research Grant, UC Berkeley
+* 2011-2012 Institute of International Education Graduate Fellowship for International Study
+* 2011 Dean’s Dissertation Research Fellowship, UC Berkeley
+* 2011 Outstanding Graduate Student Instructor Award, Geography Department, UC Berkeley
+* 2008 Tinker Summer Research Grant, UC Berkeley
 * 2006-2010 Eugene Cota Robles Fellowship, UC Berkeley
 * 2000-2002 President’s Scholar Intellectual Exploration Grant, Stanford University
 
@@ -32,16 +34,10 @@
 
 #### CONFERENCE PARTICIPATION
 ##### Papers presented
-* 2016 “Memories of Dispossession,” Annual Meeting of the Association of American
-Geographers, San Francisco, April 1.
-* 2016 “Winning the Battle of Production, But Losing the War? Intimations of Community
-Forestry in Allende-era Chile,” Annual Meeting of the Association of American
-Geographers, San Francisco, March 29.
-* 2013 “Insurgent Histories of the Panguipulli Forestry Complex: Work, Nature, and the Chilean
-Nation,” Annual Meeting of the Association of American Geographers, Los Angeles, April
-13.
-* 2012 “The Panguipulli Forestry Complex: Chile’s Exception to the Neoliberal Rule?”
-Dimensions of Political Ecology Conference, Lexington, April 14.
+* 2016 “Memories of Dispossession,” Annual Meeting of the Association of American Geographers, San Francisco, April 1.
+* 2016 “Winning the Battle of Production, But Losing the War? Intimations of Community Forestry in Allende-era Chile,” Annual Meeting of the Association of American Geographers, San Francisco, March 29.
+* 2013 “Insurgent Histories of the Panguipulli Forestry Complex: Work, Nature, and the Chilean Nation,” Annual Meeting of the Association of American Geographers, Los Angeles, April 13.
+* 2012 “The Panguipulli Forestry Complex: Chile’s Exception to the Neoliberal Rule?” Dimensions of Political Ecology Conference, Lexington, April 14.
 
 ##### Session organizer
 * 2016 “The Political Forest: Governance, Expertise, and Resistance,” Annual Meeting of the Association of American Geographers, San Francisco, with Jennifer Devine.
@@ -81,13 +77,11 @@ Management.
 
 
 #### RESEARCH EXPERIENCE
-* 2013 Research Assistantship with Professor Nancy Peluso, UC Berkeley.
-Assisted with investigation of remittances and labor migration among forest communities in Southeast Asia
-* 2005 Internship, Instituto de Ecología Política, Santiago, Chile
-Investigated the Chilean pulp industry and wrote a project proposal for an online profile of Chile’s pulp plants and their social and environmental effects on surrounding communities.
-* 2004 Research Assistantship with Hoyt Bleakley, UC San Diego Center for US-Mexican Studies Assisted in preparation of a statistical analysis of malaria eradication in Brazil, Colombia, and Mexico.
-* 2002 Internship, Foro Emaus, San Jose, Costa Rica
-Synthesized key points of an intergovernmental report on the effects of pesticides on the Caribbean watershed.
+* <p>2013 Research Assistantship with Professor Nancy Peluso, UC Berkeley. <br/> Assisted with investigation of remittances and labor migration among forest communities in Southeast Asia </p>
+* <p>2005 Internship, Instituto de Ecología Política, Santiago, Chile
+<br/> Investigated the Chilean pulp industry and wrote a project proposal for an online profile of Chile’s pulp plants and their social and environmental effects on surrounding communities.</p>
+* <p>2004 Research Assistantship with Hoyt Bleakley, UC San Diego Center for US-Mexican Studies<br/> Assisted in preparation of a statistical analysis of malaria eradication in Brazil, Colombia, and Mexico.</p>
+* <p>2002 Internship, Foro Emaus, San Jose, Costa Rica<br/>Synthesized key points of an intergovernmental report on the effects of pesticides on the Caribbean watershed. </p>
 
 #### PROFESSIONAL SERVICE
 * 2016 Selection Committee, Latin American Studies Public Engagement Award, Bowdoin College.
@@ -104,20 +98,27 @@ Synthesized key points of an intergovernmental report on the effects of pesticid
 
 #### REFERENCES
 
-Gillian Hart, Professor Emeritus 551 McCone Hall
-Department of Geography
-UC Berkeley hart@berkeley.edu
+<p>Gillian Hart, Professor Emeritus<br/>
+551 McCone Hall<br/>
+Department of Geography<br/>
+UC Berkeley <br/>
+hart@berkeley.edu</p>
 
-Nancy Peluso, Henry J. Vaux Distinguished Professor of Forest
-Policy.
-139 Giannini Hall
-Department of Environmental Science, Policy and Management
-UC Berkeley
-peluso@berkeley.edu
+<p>Nancy Peluso, Henry J. Vaux Distinguished Professor of Forest
+Policy.<br/>
+139 Giannini Hall<br/>
+Department of Environmental Science, Policy and Management<br/>
+UC Berkeley<br/>
+peluso@berkeley.edu</p>
 
-Matthew Klingle, Associate Professor 110 Adams Hall
-Environmental Studies Program Bowdoin College mklingle@bowdoin.edu
+<p>Matthew Klingle, Associate Professor <br/>
+110 Adams Hall<br/>
+Environmental Studies Program<br/>
+Bowdoin College<br/>
+mklingle@bowdoin.edu</p>
 
-Nathan Sayre, Associate Professor 599 McCone Hall
-Department of Geography
-UC Berkeley nsayre@berkeley.edu
+<p>Nathan Sayre, Associate Professor <br/>
+599 McCone Hall<br/>
+Department of Geography<br/>
+UC Berkeley <br/>
+nsayre@berkeley.edu</p>
