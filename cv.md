@@ -8,8 +8,7 @@
 * B.A. Stanford University, Human Biology, 2004
 
 #### PROFESSIONAL APPOINTMENTS
-* Bowdoin College, Latin American Studies Program, Consortium for
-* Faculty Diversity Fellow, 2015-2017.
+* Bowdoin College, Latin American Studies Program, Consortium for Faculty Diversity Fellow, 2015-2017.
 
 #### PUBLICATIONS
 ##### Refereed Journal Articles
@@ -30,7 +29,7 @@
 
 #### INVITED TALKS
 * 2016 Keynote speaker, “La historia del Complejo Forestal y Maderero Panguipulli y su relevancia para el presente,” Facultad de Ciencias Forestales y Recursos Naturales, Universidad Austral, Chile, January 12.
-* 2014 Colloquium speaker, “El Complejo Forestal y Maderero Panguipulli: ¿liberación territorial, acampamiento guerrillero o modelo de silvicultura sostenible?”, Chile Seminars, Chilean Student Association, UC Berkeley, February 27.
+* 2014 Colloquium speaker, “El Complejo Forestal y Maderero Panguipulli: ¿liberación territorial, acampamiento guerrillero o modelo de silvicultura sostenible?”, Chile Seminars, Chilean Student Association, UC Berkeley, February 27.
 
 #### CONFERENCE PARTICIPATION
 ##### Papers presented
@@ -41,7 +40,7 @@
 
 ##### Session organizer
 * 2016 “The Political Forest: Governance, Expertise, and Resistance,” Annual Meeting of the Association of American Geographers, San Francisco, with Jennifer Devine.
-* 2013 “Activist Traces/ National Spaces in Latin America,” Annual Meeting of the Association of American Geographers, Los Angeles, with Diana Negrín.
+* 2013 “Activist Traces/ National Spaces in Latin America,” Annual Meeting of the Association of American Geographers, Los Angeles, with Diana Negrín.
 
 #### CAMPUS TALKS AND PANELS
 * 2016 “Patricio Guzman’s The Pearl Button,” invited discussant, French movie festival, Bowdoin College, November 18.
@@ -78,7 +77,7 @@ Management.
 
 #### RESEARCH EXPERIENCE
 * <p>2013 Research Assistantship with Professor Nancy Peluso, UC Berkeley. <br/> Assisted with investigation of remittances and labor migration among forest communities in Southeast Asia </p>
-* <p>2005 Internship, Instituto de Ecología Política, Santiago, Chile
+* <p>2005 Internship, Instituto de Ecología Política, Santiago, Chile
 <br/> Investigated the Chilean pulp industry and wrote a project proposal for an online profile of Chile’s pulp plants and their social and environmental effects on surrounding communities.</p>
 * <p>2004 Research Assistantship with Hoyt Bleakley, UC San Diego Center for US-Mexican Studies<br/> Assisted in preparation of a statistical analysis of malaria eradication in Brazil, Colombia, and Mexico.</p>
 * <p>2002 Internship, Foro Emaus, San Jose, Costa Rica<br/>Synthesized key points of an intergovernmental report on the effects of pesticides on the Caribbean watershed. </p>
